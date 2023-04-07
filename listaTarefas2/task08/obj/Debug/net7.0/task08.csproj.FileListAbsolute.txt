@@ -1,0 +1,15 @@
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas2\task08\obj\Debug\net7.0\task08.csproj.AssemblyReference.cache
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas2\task08\obj\Debug\net7.0\task08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas2\task08\obj\Debug\net7.0\task08.AssemblyInfoInputs.cache
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas2\task08\obj\Debug\net7.0\task08.AssemblyInfo.cs
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas2\task08\obj\Debug\net7.0\task08.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas2\task08\bin\Debug\net7.0\task08.exe
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas2\task08\bin\Debug\net7.0\task08.deps.json
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas2\task08\bin\Debug\net7.0\task08.runtimeconfig.json
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas2\task08\bin\Debug\net7.0\task08.dll
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas2\task08\bin\Debug\net7.0\task08.pdb
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas2\task08\obj\Debug\net7.0\task08.dll
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas2\task08\obj\Debug\net7.0\refint\task08.dll
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas2\task08\obj\Debug\net7.0\task08.pdb
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas2\task08\obj\Debug\net7.0\task08.genruntimeconfig.cache
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas2\task08\obj\Debug\net7.0\ref\task08.dll
