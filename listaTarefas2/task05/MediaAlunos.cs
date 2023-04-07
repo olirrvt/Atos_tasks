@@ -23,6 +23,8 @@ class MediaAlunos
         
         media = (nota1 + nota2) / 2;
 
+        // Caso o usuário coloque ponto, ao invés da vírgula.
+
         if (media > 11)
         {
             media = media / 10f;
@@ -40,16 +42,20 @@ class MediaAlunos
             exameFinal = float.Parse(Console.ReadLine());
 
             float mediaFinal = ( media + exameFinal) / 3;
-            float mediaArredondada = (float)Math.Round(mediaFinal, 1);
 
-            if( mediaArredondada >= 5.0 )
+                if (mediaFinal > 11)
+                {
+                    mediaFinal = mediaFinal / 10f;
+                } 
+
+            if( mediaFinal >= 5.0 )
             {
-                Console.WriteLine($"Sua nota foi {mediaArredondada}.");
+                Console.WriteLine($"Sua nota foi {mediaFinal.ToString("F1")}.");
                 Console.WriteLine("Aprovado no exame final!");
             }
             else
             {
-                Console.WriteLine($"Sua nota foi {mediaArredondada}.");
+                Console.WriteLine($"Sua nota foi {mediaFinal.ToString("F1")}.");
                 Console.WriteLine("Reprovado!");
             }
 
