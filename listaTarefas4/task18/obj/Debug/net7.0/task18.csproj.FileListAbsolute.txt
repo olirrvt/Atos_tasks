@@ -1,0 +1,15 @@
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas4\task18\obj\Debug\net7.0\task18.csproj.AssemblyReference.cache
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas4\task18\obj\Debug\net7.0\task18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas4\task18\obj\Debug\net7.0\task18.AssemblyInfoInputs.cache
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas4\task18\obj\Debug\net7.0\task18.AssemblyInfo.cs
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas4\task18\obj\Debug\net7.0\task18.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas4\task18\bin\Debug\net7.0\task18.exe
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas4\task18\bin\Debug\net7.0\task18.deps.json
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas4\task18\bin\Debug\net7.0\task18.runtimeconfig.json
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas4\task18\bin\Debug\net7.0\task18.dll
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas4\task18\bin\Debug\net7.0\task18.pdb
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas4\task18\obj\Debug\net7.0\task18.dll
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas4\task18\obj\Debug\net7.0\refint\task18.dll
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas4\task18\obj\Debug\net7.0\task18.pdb
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas4\task18\obj\Debug\net7.0\task18.genruntimeconfig.cache
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas4\task18\obj\Debug\net7.0\ref\task18.dll
