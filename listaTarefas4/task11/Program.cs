@@ -4,7 +4,8 @@ class Program
     static void Main(string[] args)
     {
         int qtdAlunos = 0;
-        float notas, notaAlta = 0, notaBaixa = float.MaxValue, auxNotaBaixa;
+        double mediaAlunos = 0;
+        float notas, notaAlta = 0, notaBaixa = float.MaxValue, auxNotaBaixa = 0, somaNotas = 0;
         // Nota baixa é iniciada com o máximo valor para que o valor que o valor seja sempre o mais baixo possível.
 
         for(int i = 1; true ; i++)
@@ -16,6 +17,8 @@ class Program
 
             if(notas == -1)
             {
+                mediaAlunos = (double)somaNotas / qtdAlunos;
+
                 Console.WriteLine("-----------------------");
                 Console.WriteLine("CLASSIFICAÇÃO DAS NOTAS");
                 Console.WriteLine("-----------------------");
@@ -23,6 +26,8 @@ class Program
                 Console.WriteLine($"Nota mais baixa: {notaBaixa}");
                 Console.WriteLine("-----------------------");
                 Console.WriteLine($"Quantidade de Alunos na Turma: {qtdAlunos}");
+                Console.WriteLine($"A média da turma: {mediaAlunos.ToString("F2")}");
+                Console.WriteLine("-----------------------");
                 break;
             }
 
@@ -33,6 +38,7 @@ class Program
             auxNotaBaixa = notas;
             notaBaixa = auxNotaBaixa < notaBaixa ? auxNotaBaixa : notaBaixa;
 
+            somaNotas += notas; 
             qtdAlunos++;
         }
 
