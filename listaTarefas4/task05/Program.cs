@@ -3,11 +3,17 @@ class Program
 {
     static void Main(string[] args)
     {
+        int idade;
+        double salario;
+        string nome;
+
         Console.WriteLine("Hello World!");
     }
 }
 
 // 7. Faça um programa em VS que solicite o nome, a idade e o salário de uma pessoa. 
+
+
 // A cada solicitação, teste se o usuário informou um valor válido. 
 // Por exemplo: se o nome for não for lido corretamente (ou seja, se estiver em branco ou se for um número), 
 // informe que ele está incorreto e saia do programa em VS. 
