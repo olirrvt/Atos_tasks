@@ -1,0 +1,15 @@
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas6\task14\task14\bin\Debug\net6.0\task14.exe
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas6\task14\task14\bin\Debug\net6.0\task14.deps.json
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas6\task14\task14\bin\Debug\net6.0\task14.runtimeconfig.json
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas6\task14\task14\bin\Debug\net6.0\task14.dll
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas6\task14\task14\bin\Debug\net6.0\task14.pdb
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas6\task14\task14\obj\Debug\net6.0\task14.csproj.AssemblyReference.cache
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas6\task14\task14\obj\Debug\net6.0\task14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas6\task14\task14\obj\Debug\net6.0\task14.AssemblyInfoInputs.cache
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas6\task14\task14\obj\Debug\net6.0\task14.AssemblyInfo.cs
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas6\task14\task14\obj\Debug\net6.0\task14.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas6\task14\task14\obj\Debug\net6.0\task14.dll
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas6\task14\task14\obj\Debug\net6.0\refint\task14.dll
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas6\task14\task14\obj\Debug\net6.0\task14.pdb
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas6\task14\task14\obj\Debug\net6.0\task14.genruntimeconfig.cache
+C:\Users\Taylor\Desktop\atos_tasks\listaTarefas6\task14\task14\obj\Debug\net6.0\ref\task14.dll
